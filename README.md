@@ -1,4 +1,4 @@
-# automation
+# WhatsApp Automation
 
 ### Note: make sure you already login to WhatsApp web in your chrome browser
 
