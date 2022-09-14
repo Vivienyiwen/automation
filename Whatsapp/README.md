@@ -16,3 +16,5 @@ data = pd.read_csv('/Users/wen9953/Desktop/REV/Auto_Whatsapp/xxx.csv')
 python3 auto_Whatsapp.py
 ```
 [auto_Whatsapp.py](https://github.com/Vivienyiwen/automation/blob/main/Whatsapp/auto_Whatsapp.py) as an example
+
+*However, it is to be noted that ***each account*** sent to an account will open ***another whatsapp web window***.
